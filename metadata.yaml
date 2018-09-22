@@ -1,11 +1,16 @@
 _repo: Erinnerungen-eines-Achtundvierzigers_55895
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55895-h/images/cover.jpg
 creator:
   author:
     agent_name: Born, Stephan
     gutenberg_agent_id: '48570'
     url: http://www.gutenberg.org/2009/agents/48570
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55895#Erinnerungen-eines-Achtundvierzigers
 gutenberg_issued: '2017-11-06'
 gutenberg_type: Text
 identifiers:
